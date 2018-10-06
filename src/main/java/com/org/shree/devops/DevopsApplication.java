@@ -1,4 +1,4 @@
-package com.example.devops;
+package com.org.shree.devops;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

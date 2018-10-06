@@ -1,4 +1,4 @@
-package com.example.devops;
+package com.org.shree.devops;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
